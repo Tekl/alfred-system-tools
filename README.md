@@ -1,4 +1,4 @@
-[Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3]
+[Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
 
 # System Tools (EN) for Alfred 3
 
