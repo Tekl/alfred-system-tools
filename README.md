@@ -1,4 +1,6 @@
-[Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
+![Deutsch](de.png?s=16) [Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
+
+![alfred-system-tools](alfred-system-tools.png)
 
 # System Tools (EN) for Alfred 3
 
@@ -42,8 +44,3 @@ Dieser einfache Alfred-Workflow zeigt wie Windows auf Tastendruck (à la Strg+Al
 
 [Lade den deutschen Worklfow herunter](https://github.com/Tekl/alfred-system-tools/raw/master/System%20Tools%20%28DE%29.alfredworkflow) und installiere ihn via Doppelklick. Alfred wird gestartet und du kannst deine gewünschten Tastaturkürzel vergeben, zum Beispiel Ctrl+Cmd+Entf.
 
-------
-
-# Screenshot
-
-![alfred-system-tools](alfred-system-tools.png)
