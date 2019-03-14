@@ -1,8 +1,8 @@
 ![Deutsch](de.png) [Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
 
-![alfred-system-tools](alfred-system-tools.png)
-
 # System Tools (EN) for Alfred 3
+
+![alfred-system-tools](alfred-system-tools_en.png)
 
 This simple Alfred workflow give you windows like access to common system commands and tools by just pressing a hotkey similar to Ctrl+Alt+Del:
 
@@ -27,6 +27,8 @@ This simple Alfred workflow give you windows like access to common system comman
 ---
 
 # System Tools (DE) for Alfred 3
+
+![alfred-system-tools](alfred-system-tools_de.png)
 
 Dieser einfache Alfred-Workflow zeigt wie Windows auf Tastendruck (à la Strg+Alt+Entf) ein Fenster mit wichtigen Systembefehlen und -Tools:
 
