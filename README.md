@@ -26,17 +26,17 @@ This simple Alfred workflow give you windows like access to common system comman
 
 Dieser einfache Alfred-Workflow zeigt wie Windows auf Tastendruck (à la Strg+Alt+Entf) ein Fenster mit wichtigen Systembefehlen und -Tools:
 
-- Open Activity Monitor
-- Open Terminal
-- Open System Preferences
-- Open App Store
-- Display sleep
-- Launch Screensaver
-- Toggle Dark mode on/off
-- Switch to Login window
-- Quit all running Apps
-- Lock your Mac
-- Force Reboot without saving documents
+- Aktivitätsanzeige öffnen
+- Terminal öffnen
+- Systemeinstellungen öffnen
+- App Store öffnen
+- Bildschirm ausschalten
+- Bildschirmschoner starten
+- Dunkelmodus ein-/ausschalten
+- Anmeldefenster zeigen
+- Alle aktiven Apps beenden
+- Mac sperren
+- Unverzüglich neu starten ohne Dokumente zu sichern
 
 ## Installation
 
