@@ -18,7 +18,7 @@ This simple Alfred workflow give you windows like access to common system comman
 
 ## Installation
 
-[Download the Englisch worklfow](https://github.com/Tekl/alfred-system-tools) and install it by double click. Alfred will open and you can enter your preferred Hotkeys to call System Tools, for example Ctrl+Cmd+Del.
+[Download the Englisch worklfow](https://github.com/Tekl/alfred-system-tools/raw/master/System%20Tools%20%28EN%29.alfredworkflow) and install it by double click. Alfred will open and you can enter your preferred Hotkeys to call System Tools, for example Ctrl+Cmd+Del.
 
 ---
 
@@ -40,4 +40,10 @@ Dieser einfache Alfred-Workflow zeigt wie Windows auf Tastendruck (à la Strg+Al
 
 ## Installation
 
-[Lade den deutschen Worklfow herunter](https://github.com/Tekl/alfred-system-tools) und installiere ihn via Doppelklick. Alfred wird gestartet und du kannst deine gewünschten Tastaturkürzel vergeben, zum Beispiel Ctrl+Cmd+Entf.
+[Lade den deutschen Worklfow herunter](https://github.com/Tekl/alfred-system-tools/raw/master/System%20Tools%20%28DE%29.alfredworkflow) und installiere ihn via Doppelklick. Alfred wird gestartet und du kannst deine gewünschten Tastaturkürzel vergeben, zum Beispiel Ctrl+Cmd+Entf.
+
+------
+
+# Screenshot
+
+![alfred-system-tools](alfred-system-tools.png)
