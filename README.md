@@ -16,11 +16,13 @@ This simple Alfred workflow give you windows like access to common system comman
 - Switch to Login window
 - Quit all running Apps
 - Lock your Mac
-- Force Reboot without saving documents
+- Force Reboot without saving documents (supports AuthRestart for FileVault encrypted Macs. The command asks for the password the first time you use it.)
 
 ## Installation
 
 [Download the Englisch worklfow](https://github.com/Tekl/alfred-system-tools/raw/master/System%20Tools%20%28EN%29.alfredworkflow) and install it by double click. Alfred will open and you can enter your preferred Hotkeys to call System Tools, for example Ctrl+Cmd+Del.
+
+*Current Version: 1.0 from 2019-03-14*
 
 ---
 
@@ -38,9 +40,10 @@ Dieser einfache Alfred-Workflow zeigt wie Windows auf Tastendruck (à la Strg+Al
 - Anmeldefenster zeigen
 - Alle aktiven Apps beenden
 - Mac sperren
-- Unverzüglich neu starten ohne Dokumente zu sichern
+- Unverzüglich neu starten ohne Dokumente zu sichern (unterstützt AuthRestart für per FileVault verschlüsselte Macs. Der Befehl fragt bei der ersten Verwendung nach dem Passwort.)
 
 ## Installation
 
 [Lade den deutschen Worklfow herunter](https://github.com/Tekl/alfred-system-tools/raw/master/System%20Tools%20%28DE%29.alfredworkflow) und installiere ihn via Doppelklick. Alfred wird gestartet und du kannst deine gewünschten Tastaturkürzel vergeben, zum Beispiel Ctrl+Cmd+Entf.
 
+*Aktuelle Version: 1.0 vom 14.3.2019*
