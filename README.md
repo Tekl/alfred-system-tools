@@ -1,4 +1,4 @@
-![Deutsch](de.png?s=16) [Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
+![Deutsch](de.png) [Deutsche Beschreibung weiter unten](#system-tools-de-for-alfred-3)
 
 ![alfred-system-tools](alfred-system-tools.png)
 
